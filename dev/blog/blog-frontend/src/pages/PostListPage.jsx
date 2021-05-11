@@ -2,7 +2,7 @@ import React from 'react';
 
 import HeaderContainer from './../components/common/HeaderContainer';
 
-const LoginPage = () => {
+const PostListPage = () => {
   return (
     <>
       <HeaderContainer />
@@ -11,4 +11,4 @@ const LoginPage = () => {
   );
 };
 
-export default LoginPage;
+export default PostListPage;
